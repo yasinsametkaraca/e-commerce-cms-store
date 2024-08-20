@@ -1,4 +1,4 @@
-# Full Stack Content Management System | E-Commerce | Dashboard: Next.js App Router, React, Tailwind, Prisma, MySQL
+# Full Stack Content Management System | E-Commerce | Dashboard: Next.js App Router, React, Tailwind, Prisma, MySQL, Shadcn
 
 Next.js App Router, React, Tailwind, Prisma, MySQL, shadcn/ui, Clerk, Stripe, Cloudinary
 
