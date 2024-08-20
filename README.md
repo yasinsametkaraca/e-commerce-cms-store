@@ -9,7 +9,7 @@ Next.js App Router, React, Tailwind, Prisma, MySQL, shadcn/ui, Clerk, Stripe, Cl
 ### Install packages
 
 ```shell
-npm i
+npm install
 ```
 
 ### Setup .env file
